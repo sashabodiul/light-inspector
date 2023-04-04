@@ -1,0 +1,1 @@
+['scidgreen', 'elegance', 'aquativo', 'keramik', 'scidpink', 'scidsand', 'scidpurple', 'radiance', 'alt', 'classic', 'yaru', 'plastik', 'adapta', 'default', 'blue', 'itft1', 'equilux', 'black', 'winxpblue', 'breeze', 'smog', 'scidblue', 'kroc', 'clam', 'scidmint', 'ubuntu', 'scidgrey', 'clearlooks', 'arc']
